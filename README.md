@@ -1,4 +1,4 @@
-# Garmin Analysis Report
+# Analysis Report
 
 This is a project focused on analysis, including data analysis and interactive chart presentations.
 
